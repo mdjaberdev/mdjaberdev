@@ -37,6 +37,11 @@
   </a>
 </p>
 
+<h3 align="center">💻 Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,vscode,figma,bootstrap,photoshop&theme=dark" />
+</p>
+
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=mdjaberdev&theme=dark&hide_border=false" alt="mdjaberdev Streak" />
