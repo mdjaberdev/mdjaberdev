@@ -15,11 +15,10 @@
 ### 👨‍💻 About Me
 
 * 🔭 Currently working on **[Orebi – E‑commerce Project](https://e-commerce-six-liard.vercel.app/)**
-* 🌱 Learning **React JS** & modern frontend workflows
-* 👯 Open to collaborating on **React-based projects**
+* 👯 Open to collaborating on **React & Next Js-based projects**
 * 🤝 Looking for guidance in **E‑commerce development**
 * 📝 Writing articles on **[dev.to](https://dev.to/)**
-* 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS**
+* 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS, React Js, Next Js**
 * 📫 Reach me at **[md9292463@gmail.com](mailto:md9292463@gmail.com)**
 * ⚡ Fun fact: *I think I’m funny 😄*
 
@@ -42,10 +41,10 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,vscode,figma,bootstrap,photoshop&theme=dark" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdjaberdev&theme=dark&hide_border=false" alt="mdjaberdev Streak" />
-</div>
+ <h3 align="center">🔥 My GitHub Streak</h3>
+<p align="center">
+          <img src="https://streak-stats.demolab.com?user=mdjaberdev&theme=radical&hide_border=true" />
+        </p>
 
 <h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
 ⭐ Thanks for visiting my profile!
