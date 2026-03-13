@@ -44,7 +44,7 @@
  <h3 align="center">🔥 My GitHub Streak</h3>
 <p align="center">
           <img src="https://streak-stats.demolab.com?user=mdjaberdev&theme=radical&hide_border=true" />
-        </p>
+  </p>
 
 <h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
 ⭐ Thanks for visiting my profile!
