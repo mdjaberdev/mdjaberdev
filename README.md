@@ -19,7 +19,7 @@
 * 🤝 Looking for guidance in **E‑commerce development**
 * 📝 Writing articles on **[dev.to](https://dev.to/)**
 * 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS, React Js, Next Js**
-* 📫 Reach me at **[md9292463@gmail.com](mailto:md9292463@gmail.com)**
+* 📫 Reach me at **[mdjaberdev@gmail.com](mailto:mdjaber.dev@gmail.com)**
 * ⚡ Fun fact: *I think I’m funny 😄*
 
 <h3 align="left">🌐 Connect with Me</h3>
