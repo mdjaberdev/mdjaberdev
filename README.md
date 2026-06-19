@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jaber 👋</h1>
-<h3 align="center">Front-End Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Based+in+Bangladesh;Crafting+Modern+Web+Experiences;Always+Learning%2C+Always+Building" alt="Typing SVG" />
