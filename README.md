@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm JABER</h1>
+<h1 align="center">Hi there, I'm Jaber 👋</h1>
+<h3 align="center">Front-End Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=A+Passionate+Front-end+Developer;From+Bangladesh;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Based+in+Bangladesh;Crafting+Modern+Web+Experiences;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I build clean, responsive, and user-friendly web interfaces using modern technologies. 
+  I love turning ideas into interactive, real-world products and am always exploring 
+  new tools to sharpen my craft.
 </p>
 
 <p align="center">
